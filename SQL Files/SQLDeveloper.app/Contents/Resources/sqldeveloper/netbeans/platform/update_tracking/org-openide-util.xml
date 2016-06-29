@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.openide.util">
+    <module_version install_time="1397847207734" last="true" origin="Ant" specification_version="8.29.3">
+        <file crc="3298874072" name="config/ModuleAutoDeps/org-openide-util.xml"/>
+        <file crc="2031283137" name="lib/locale/org-openide-util_de.jar"/>
+        <file crc="795642919" name="lib/locale/org-openide-util_es.jar"/>
+        <file crc="1773070391" name="lib/locale/org-openide-util_fr.jar"/>
+        <file crc="4145858352" name="lib/locale/org-openide-util_it.jar"/>
+        <file crc="2611876752" name="lib/locale/org-openide-util_ja.jar"/>
+        <file crc="759243879" name="lib/locale/org-openide-util_ko.jar"/>
+        <file crc="3488416365" name="lib/locale/org-openide-util_pt_BR.jar"/>
+        <file crc="4081668524" name="lib/locale/org-openide-util_zh_CN.jar"/>
+        <file crc="1884556983" name="lib/locale/org-openide-util_zh_TW.jar"/>
+        <file crc="1212957550" name="lib/org-openide-util.jar"/>
+    </module_version>
+</module>

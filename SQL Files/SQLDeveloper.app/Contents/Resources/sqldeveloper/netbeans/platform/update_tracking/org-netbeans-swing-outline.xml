@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.swing.outline">
+    <module_version install_time="1397846710866" last="true" origin="Ant" specification_version="1.23.3">
+        <file crc="3679534386" name="config/Modules/org-netbeans-swing-outline.xml"/>
+        <file crc="1518123414" name="modules/locale/org-netbeans-swing-outline_de.jar"/>
+        <file crc="446735854" name="modules/locale/org-netbeans-swing-outline_es.jar"/>
+        <file crc="4065836400" name="modules/locale/org-netbeans-swing-outline_fr.jar"/>
+        <file crc="1578255780" name="modules/locale/org-netbeans-swing-outline_it.jar"/>
+        <file crc="32945099" name="modules/locale/org-netbeans-swing-outline_ja.jar"/>
+        <file crc="2982139617" name="modules/locale/org-netbeans-swing-outline_ko.jar"/>
+        <file crc="377977340" name="modules/locale/org-netbeans-swing-outline_pt_BR.jar"/>
+        <file crc="2123824206" name="modules/locale/org-netbeans-swing-outline_zh_CN.jar"/>
+        <file crc="3344660318" name="modules/locale/org-netbeans-swing-outline_zh_TW.jar"/>
+        <file crc="2959128456" name="modules/org-netbeans-swing-outline.jar"/>
+    </module_version>
+</module>
